@@ -22,8 +22,6 @@ public class PEP2T_1_ABL
         Scanner _Novo = new Scanner (System.in);
         boolean fin = false;
         int _accion = 0;
-    
-        System.out.println(args[0] + "  " + args[1]); // PRUEBAS
 
         // --- Crear Objetos
         PEP2T_1_ABL Caj = new PEP2T_1_ABL(_Novo);
